@@ -1,8 +1,14 @@
-# Hola soy Matias Campos
-# Mi dni es: 46.175.554
-# Estoy cursando la materia Programacion II, haciendo el taller de Git
+# Hola, soy Matias Campos 👋
 
-# Sobre mi:
---Me gusta programar en c++ y Python
---Me gusta jugar al CS2, Fortnite, GTA V, Mortal Kombat y algunos Call of Duty antiguos como el Black ops 2, Black ops 3, MW 2
---No soy de ver muchas series o animes pero me encanta la saga de Mortal Kombat, veo las peliculas antiguas muchas veces o en general veo cosas referidas al Mortal Kombat
+🎓 Estudiante de Ingenieria Informatica  
+📚 Actualmente cursando Programacion II y aprendiendo Git  
+
+---
+
+## 📌 Sobre mi
+
+- 💻 **Lenguajes:** C++ y Python  
+- 🎮 **Gaming:** CS2, Fortnite, GTA V, Mortal Kombat y Call of Duty  
+- 🎬 **Intereses:** Me gusta la saga de Mortal Kombat, especialmente sus películas clásicas  
+
+
