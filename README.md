@@ -13,6 +13,12 @@
 
 ---
 
+## 📍 Ubicación
+
+Vivo en El Carmen, provincia de Jujuy, Argentina.
+
+---
+
 ## 🐶 Mi compañero
 
 Este es mi perro:
