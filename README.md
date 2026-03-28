@@ -17,4 +17,4 @@
 
 Este es mi perro:
 
-![Mi perro](dobby.jpg)
+![Mi perro](dobby.jpeg)
