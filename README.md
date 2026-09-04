@@ -6,7 +6,7 @@
 
 ### Hola, soy Matías 👋
 
-Estudiante de Ingeniería Informática · UCSE-DASS · Jujuy, Argentina
+Estudiante de Ingeniería Informática · UCSE-DASS · El Carmen, Jujuy, Argentina
 
 ---
 
@@ -33,18 +33,10 @@ Estudiante de Ingeniería Informática · UCSE-DASS · Jujuy, Argentina
 
 ---
 
-### 📬 Contacto
-
-<p align="center">
-<img src="https://img.shields.io/badge/-mat1as-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: mat1as" />
-</p>
-
----
-
 ### 📊 Estadísticas
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mat1asz&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mat1asz&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
 </div>
